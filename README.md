@@ -10,6 +10,6 @@ The tables update in real time so there is no need to refresh. Filter selection 
 ![filter1.png](https://github.com/jipelletier/UFOs/blob/main/filter1.png)
 
 To narrow the results, you could add in the shape or date filter:
-![filter2.png](
+![filter2.png](https://github.com/jipelletier/UFOs/blob/main/filter2.png)
 
 ## Summary
