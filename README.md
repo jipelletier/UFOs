@@ -4,5 +4,5 @@ In this repository, we will use Javascript to create a table that organizes UFO 
 
 ## Results
 The webpage created is a fairly user-friendly display of ufo sighting data with a filter table that allows users to easily filter on various criteria such as date, city, state, and shape of the UFO sighting. A global unfiltered view can be seen below.
-![image1.png](
+![image1.png](https://github.com/jipelletier/UFOs/blob/main/UFOs/image1.png)
 ## Summary
