@@ -7,5 +7,9 @@ The webpage created is a display of UFO sighting data with a filter table that a
 ![image1.png](https://github.com/jipelletier/UFOs/blob/main/UFOs/image1.png)
 
 The tables update in real time so there is no need to refresh. Filter selection can be broad such as only selecting a country and state like the United States and New York as shown below:
-![filter1.png](
+![filter1.png](https://github.com/jipelletier/UFOs/blob/main/filter1.png)
+
+To narrow the results, you could add in the shape or date filter:
+![filter2.png](
+
 ## Summary
